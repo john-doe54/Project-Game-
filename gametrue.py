@@ -92,5 +92,6 @@ while game_running:
         print(f" Score: {score}")
         print(f" Games Played: {games}")
         print(f" Average Score: {score / games}")
+        print()
         
     
